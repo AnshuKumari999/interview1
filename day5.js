@@ -1,12 +1,12 @@
 //1--
 function clickme(){
-    document.getElementById("hello").innerText = "MERN stack"
+    document.getElementById("hello").innerText = "MERN STACK"
     }
     
     
     //2--
     function touch(){
-     document.getElementsByClassName("dom")[0].innerText = "Im First h1 Element"
+     document.getElementsByClassName("dom")[0].innerText = "I'm First h1 Element"
      
     }
     
@@ -25,7 +25,7 @@ function clickme(){
     
     //4--
     function button(){
-    document.getElementById("h1").innerText = "Welcome to Elevation Academy"
+    document.getElementById("h1").innerText = "Welcome To Elevation Academy"
     }
     
     
